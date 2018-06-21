@@ -1,0 +1,4 @@
+# PeakDecomposition
+gaussfunc.py里实现了模型里用于拟合色谱峰的高斯函数
+pywavetete.py是实现了一些小波变换的操作，并且生成了用于训练和验证的数据集
+random_forest.py和calkeras.py里分别使用skilearn和keras搭建了模型进行训练和测试。
